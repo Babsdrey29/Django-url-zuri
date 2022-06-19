@@ -1,5 +1,4 @@
 # Django-url-zuri
-# Django-Models
 <h1>STEPS TO CREATION OUTLINED:</h1>
 <ol>
   <li>Create a new github Repo with a readme and python .gitignore</li>
